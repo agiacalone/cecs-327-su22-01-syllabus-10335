@@ -1,4 +1,4 @@
-# Intro to Networks and Distributed Computing
+# Introduction to Networks and Distributed Computing
 
 ## CECS 327: Section 1 (10335)
 
@@ -6,7 +6,7 @@
 
 | Class Lecture | Time              | Room    |
 |---------------|-------------------|---------|
-| Tue Wed Thu   | 2:00 PM - 4:30 PM | ECS-302 |
+| Tue Wed Thu   | 2:00 PM - 4:30 PM | ECS-412 |
 
 | Instructor        | Email                       | Office  | Office Hours           |
 |-------------------|-----------------------------|---------|------------------------|
@@ -65,12 +65,12 @@ Homework and lab assignments will be assigned approximately every other week, an
 
 |  Week      | Subject                                                 |
 |------------|---------------------------------------------------------|
-| Jul  2     | Introduction to Distributed Systems -- **REMOTE and ASYNCRONOUS** (Ch 1)|
-| May 30     | Architectures (Ch 2), First Midterm                     |
-| Jun  6     | Processes (Ch 3), Communication (Ch 4)                  |
-| Jun 13     | Naming (Ch 5), Second midterm                           |
-| Jun 20     | Coordination  (Ch 6)                                    |
-| Jun 27     | Fault Tolerance (Ch 8), Final exam                      |
+| Jul  4     | Introduction to Distributed Systems -- **REMOTE and ASYNCRONOUS** (Ch 1)|
+| Jul 11     | Architectures (Ch 2), First Midterm                     |
+| Jul 18     | Processes (Ch 3), Communication (Ch 4)                  |
+| Jul 25     | Naming (Ch 5), Second midterm                           |
+| Aug 01     | Coordination  (Ch 6)                                    |
+| Aug 08     | Fault Tolerance (Ch 8), Final exam                      |
 
 ### Computer Software
 
