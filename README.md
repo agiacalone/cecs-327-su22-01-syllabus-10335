@@ -65,7 +65,7 @@ Homework and lab assignments will be assigned approximately every other week, an
 
 |  Week      | Subject                                                 |
 |------------|---------------------------------------------------------|
-| Jul  2     | Introduction to Distributed Systems -- **REMOTE** (Ch 1)|
+| Jul  2     | Introduction to Distributed Systems -- **REMOTE and ASYNCRONOUS** (Ch 1)|
 | May 30     | Architectures (Ch 2), First Midterm                     |
 | Jun  6     | Processes (Ch 3), Communication (Ch 4)                  |
 | Jun 13     | Naming (Ch 5), Second midterm                           |
